@@ -55,7 +55,7 @@ class _SortearNome extends State<MyHomePage> {
             ),
             SizedBox(height: 20),
             ElevatedButton(
-              onPressed: sortearNome,
+              onPressed: sortearNome, 
               child: Text('Aperte Para Sortear'),
             ),
           ],
